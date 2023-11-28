@@ -1,0 +1,18 @@
+[
+    {
+        "icone": "users",
+        "titulo": "Todos os Alunos"
+    },
+    {
+        "icone": "user-plus",
+        "titulo": "Adicionar novo Aluno"
+    },
+    {
+        "icone": "edit",
+        "titulo": "Editar dados do aluno"
+    },
+    {
+        "icone": "user-times",
+        "titulo": "Remover Aluno"
+    }
+]

@@ -4,12 +4,12 @@
     "slug": "MusicBox",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/MusicBox.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/MusicBox.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#121212"
     },
     "assetBundlePatterns": [
       "**/*"
@@ -19,12 +19,18 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/MusicBox.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.brunosantos.MusicBox"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/MusicBox.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "4fff16ae-7b00-4c5a-82bb-af4f3a94cbbe"
+      }
     }
   }
 }

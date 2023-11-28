@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "nome": "Teoria Musical",
+        "icone": "music-clef-treble"
+    },
+    {
+        "id": 2,
+        "nome": "Sax",
+        "icone": "saxophone"
+    },
+    {
+        "id": 3,
+        "nome": "Teclado",
+        "icone": "piano"
+    },
+    {
+        "id": 4,
+        "nome": "Violão",
+        "icone": "guitar-acoustic"
+    },
+    {
+        "id": 5,
+        "nome": "Guitarra",
+        "icone": "guitar-electric"
+    },
+    {
+        "id": 6,
+        "nome": "Baixo",
+        "icone": "music-clef-bass"
+    }
+]
